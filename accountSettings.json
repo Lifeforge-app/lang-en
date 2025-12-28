@@ -43,6 +43,9 @@
     "disable2FA": {
       "title": "Disable Two-Factor Authentication",
       "description": "Are you sure you want to disable two-factor authentication?"
+    },
+    "changePassword": {
+      "title": "Change Password"
     }
   },
   "buttons": {
@@ -52,7 +55,19 @@
     "dateOfBirth": "Date of Birth",
     "username": "Username",
     "email": "Email Address",
-    "displayName": "Display Name"
+    "displayName": "Display Name",
+    "currentPassword": {
+      "label": "Current Password",
+      "placeholder": "Enter your current password"
+    },
+    "newPassword": {
+      "label": "New Password",
+      "placeholder": "Enter your new password"
+    },
+    "confirmPassword": {
+      "label": "Confirm New Password",
+      "placeholder": "Enter your new password again"
+    }
   },
   "messages": {
     "twoFA": {

@@ -8,6 +8,10 @@
     "noBackups": {
       "title": "No Backups Found",
       "description": "No backups available. Create a new one using the button above."
+    },
+    "toBeImplemented": {
+      "title": "To Be Reimplemented",
+      "description": "Backup restoration functionality will be added back very soon."
     }
   },
   "modals": {

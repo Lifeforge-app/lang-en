@@ -22,7 +22,8 @@
     "keyDescription": "Key Description",
     "keyIcon": "Key Icon",
     "apiKey": "API Key",
-    "keyId": "Key ID"
+    "keyId": "Key ID",
+    "isExposable": "Is Exposable"
   },
   "items": {
     "apiKey": "API Key"

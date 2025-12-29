@@ -12,6 +12,10 @@
     "apiKey": {
       "create": "Create API Key",
       "update": "Update API Key"
+    },
+    "modulesRequired": {
+      "title": "Modules Required",
+      "totalModulesRequire": "A total of {{count}} modules require this API Key."
     }
   },
   "buttons": {
@@ -34,5 +38,11 @@
       "title": "No API Keys",
       "description": "No API keys found. Click the button below to create a new API key"
     }
+  },
+  "misc": {
+    "requiredBy": "Required by: {{count}} modules",
+    "lastUpdated": "Last updated: {{time}}",
+    "exposable": "Exposable",
+    "internalOnly": "Internal Only"
   }
 }

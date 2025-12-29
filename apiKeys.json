@@ -23,7 +23,8 @@
     "keyIcon": "Key Icon",
     "apiKey": "API Key",
     "keyId": "Key ID",
-    "isExposable": "Is Exposable"
+    "isExposable": "Is Exposable",
+    "overrideKey": "Override Key"
   },
   "items": {
     "apiKey": "API Key"

@@ -1,0 +1,14 @@
+{
+  "name": "@lifeforge/lang-en",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lifeforge-app/lang-en"
+  },
+  "description": "English language support for LifeForge.",
+  "author": "melvinchia3636 <melvinchia623600@gmail.com>",
+  "lifeforge": {
+    "displayName": "English",
+    "icon": "circle-flags:gb"
+  }
+}
